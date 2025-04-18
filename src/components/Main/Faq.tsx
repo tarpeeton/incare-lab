@@ -31,7 +31,6 @@ export const Faq = () => {
                             <div className={`rounded-full bg-[#434343] text-center flex items-center justify-center text-white  w-[25px] h-[25px]`}>
                                 <p className="lg:text-[22px] -mt-[3px]">
                                 {faq.id === activeFaq ? "-" : "+"}
-
                                 </p>
                             </div>
 
